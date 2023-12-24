@@ -1,3 +1,7 @@
+![image](https://github.com/arnavvaryani/INFO5100-global-immunization-portal/assets/37153449/d926e833-9752-4c8c-bdea-5724b82fda4a)
+
+<img width="529" alt="image" src="https://github.com/arnavvaryani/INFO5100-global-immunization-portal/assets/37153449/23d2f751-2554-48a0-a0f2-f13440bfabbf">
+
 Application Flow
 
 1. Login as Superuser and create a region, enterprises, and their admin users.
